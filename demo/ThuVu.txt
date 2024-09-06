@@ -1,0 +1,113 @@
+_Created by: [Thu Vu](https://www.youtube.com/channel/UCJQJAI7IjbLcpsjWdSzYz0Q)_
+
+_**This roadmap is created as part of my [Youtube video](https://www.youtube.com/watch?v=TR7AGmey1C8) on this topic.**_
+
+![Screenshot 2023-11-19 at 6.51.13 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/31426fa0-2d7d-4a34-ae96-fc9b3a8064d2/c0c901c6-c4d3-4c51-8f92-e1054a9d270b/Screenshot_2023-11-19_at_6.51.13_PM.png)
+
+## 🚀 How fast is AI improving?
+
+Fantastic interactive website from The AI Digest: [https://theaidigest.org/progress-and-dangers#](https://theaidigest.org/progress-and-dangers#)
+
+## 🛠 **Technical aspects**
+
+### 👉 What to learn?
+
+- Python
+- IDEs (Jupyter Notebook/ JupyterLab, VSCode, Pycharm, etc.)
+- Git version control
+- APIs
+- Deploying AI applications
+
+### 👉 Resources
+
+- [Python for Everybody Specialization (Coursera)](https://imp.i384100.net/e4ZdXX)
+- [Python Tips (Free online) - for references](https://book.pythontips.com/en/latest/index.html)
+- 📚 [Git book](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) ^91611e
+- 🎥 [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+- [Deeplearning.ai](http://deeplearning.ai/) [short courses](https://www.deeplearning.ai/short-courses/)
+
+## ⚙️ **Theoretical fundamentals**
+
+### 👉 What to learn?
+
+Main AI concepts for a technical learner:
+
+- Basics of neural networks
+- Neural network architectures, incl. transformers
+- How to “train” a language model
+- Important NLP concepts (e.g. tokenization, text embeddings)
+
+### 👉 Resources
+
+- 🎥 [3Blue1Brown Neural Network playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- ⏩ [Fast AI](https://www.fast.ai/) resources
+- 🎥 [CodeEmporium Transformers playlist](https://www.youtube.com/watch?v=QCJQG4DuHT0&list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
+- [🤖 Deep Learning Specialization](https://imp.i384100.net/zavBA0) (Coursera/ [Deeplearning.ai](http://deeplearning.ai/))
+- [📚 Deep learning book (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](https://www.deeplearningbook.org/)
+- 💬 [Natural Language Processing Specialization](https://imp.i384100.net/VmdG93) (Coursera/ [Deeplearning.ai](http://deeplearning.ai/))
+- 🎥 [Let’s Build GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) (Andrej Karpathy)
+
+## 👩🏻‍💻 Real-world projects & Sharing
+
+Projects need not be big or complex. It can be as small as writing a blog post to explain about something in AI.
+
+If you want to build a real-world AI application, find a problem you are interested in solving with AI, and build a project around it.
+
+### 👉 **Example projects:**
+
+🎥 [Building a Chatbot with ChatGPT API and Reddit Data](https://www.youtube.com/watch?v=EE1Y2enHrcU&t=557s)
+
+🎥 [I Created a Custom GPT for Data Science Nerds](https://www.youtube.com/watch?v=fhFz0JfGvfc&t=116s)
+
+## 💡 Mental models & Specialized AI areas
+
+Reading books about AI is a great way to go over the noise on social media and get a more well-rounded background of AI.
+
+![Screenshot 2023-11-20 at 8.57.53 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/31426fa0-2d7d-4a34-ae96-fc9b3a8064d2/0a0c5934-f7ba-416a-8dff-41c74c1ffb95/Screenshot_2023-11-20_at_8.57.53_AM.png)
+
+### 📚 **My recommended AI book list:**
+
+1. [Life 3.0 (Max Tegmark)](https://amzn.to/3MVo8SH)
+2. [Superintelligence (Nick Bostrom)](https://amzn.to/3MRKSTs)
+3. [The Coming Wave (Mustafa Suleyman, Michael Bhaskar)](https://amzn.to/3MT8Ldv)
+4. [Power and Progress (Daron Acemoglu, Simon Johnson)](https://amzn.to/47L6UiH)
+5. [Human Compatible (Stuart Russell)](https://amzn.to/3sQpZBk)
+6. [The Alignment Problem (Brian Christian)](https://amzn.to/3SO1uPO)
+7. [Artificial Intelligence: A Modern Approach, Global Edition (Peter Norvig, Stuart Russell)](https://amzn.to/3G50wHs)
+8. [I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique (Tomas Chamorro-Premuzi)](https://amzn.to/3SVIfUu)
+
+### Specialized AI topics:
+
+Choose one or a few AI areas you are interested in to dive deeper.
+
+- **Advanced prompt engineering methods** to improve quality of the LLM responses, like self-consistency, chain of thoughts prompting, or automatic prompting.
+- **AutoGen (Microsoft):** allows you to develop LLM applications using multiple agents that can converse with each other to solve tasks.
+- **Advanced document QA** with multi modal documents that can work well with complex tables, images and other data structures.
+- **AI security and hacking:** The other day I watched a [video](https://www.youtube.com/watch?v=e3ybnXjtpIc) of a researcher who uncovers some serious security issues with machine learning model. This is a very overlooked area until now, so if you know computer security very well, please do humanity a favor and look into this!
+
+![Source: Cartoon by Iyad Rahwan.](https://prod-files-secure.s3.us-west-2.amazonaws.com/31426fa0-2d7d-4a34-ae96-fc9b3a8064d2/33e6844b-5dfa-4631-98b3-3a17215cd29d/Untitled.png)
+
+Source: [Cartoon by Iyad Rahwan.](https://twitter.com/iyadrahwan/status/578605340947824640)
+
+- We also have **AI safety:** Research area focusing on aligning AI’s goals with human goals. Understanding large AI models and knowing how to make them safe are increasingly a priority next to improving AI capabilities.
+- **AI Regulations:**
+    - [EU AI Act](https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) (Europe)
+    - [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) (EO) (US)
+
+### 📩 Useful AI newsletters:
+
+1. [The Batch](https://www.deeplearning.ai/the-batch/) ([Deeplearning.ai](http://deeplearning.ai/))
+2. [The Algorithm](https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/) (MIT Technology Review)
+3. [Paper with Code](https://paperswithcode.com/newsletter) Newsletter
+4. [AI Ethics Brief](https://brief.montrealethics.ai/) ([Montreal AI Ethics Institute](https://montrealethics.ai/))
+
+### ⛳️ Specialized AI courses:
+
+1. [AI Alignment Course](https://course.aisafetyfundamentals.com/alignment) — Developed with **Richard Ngo (OpenAI)**
+2. [AI Governance Course](https://airtable.com/appKTkXiDkE8H4CVl/shrXhZYIbyuvNKcM6?prefill_AGISF%20track=AI%20Governance)
+
+---
+
+Happy learning! 🤗
+
+Thu xx
