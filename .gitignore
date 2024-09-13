@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook Checkpoint Folders
+.ipynb_checkpoints/
+
+# Ignore Python compile files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore enviroment files
+env/
+venv/
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db

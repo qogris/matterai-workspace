@@ -1,0 +1,3 @@
+[submodule "pytorch-sentiment-analysis"]
+	path = pytorch-sentiment-analysis
+	url = https://github.com/bentrevett/pytorch-sentiment-analysis.git
