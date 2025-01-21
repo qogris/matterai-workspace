@@ -1,4 +1,4 @@
-# My Python/ML learning workspace @OCI
+# My AI4S Learning and Development Workspace @OCI
 
 ~~09/13 Add submodule [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)~~
 
