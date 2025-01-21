@@ -10,12 +10,10 @@
 Welcome to **matter-workspace**, your gateway to exploring the cutting-edge convergence of **AI algorithms** and **materials science**! 🌟 This repository is dedicated to providing a rich collection of learning resources, innovative applications, and development tools tailored for researchers, developers, and enthusiasts in the field.
 
 ### What You’ll Find Here:
-	•	🧠 Advanced AI Methods: Dive into groundbreaking algorithms and applications designed specifically for materials discovery and analysis.
-	•	🔬 Comprehensive Learning Resources: Access curated tutorials, research papers, and insightful guides to accelerate your understanding of AI in materials science.
-	•	💻 Code Excellence: Discover personal contributions and handpicked implementations of high-quality methods from the community.
-	•	🚀 Practical Applications: Explore real-world use cases and projects showcasing AI’s transformative potential in solving complex material challenges.
-
-### Why Join Us?
+- 🧠 Advanced AI Methods: Dive into groundbreaking algorithms and applications designed specifically for materials discovery and analysis.
+- 🔬 Comprehensive Learning Resources: Access curated tutorials, research papers, and insightful guides to accelerate your understanding of AI in materials science.
+- 💻 Code Excellence: Discover personal contributions and handpicked implementations of high-quality methods from the community.
+- 🚀 Practical Applications: Explore real-world use cases and projects showcasing AI’s transformative potential in solving complex material challenges.
 
 At **matter-workspace**, we believe in the **power of collaboration** and the **limitless potential** of AI to revolutionize materials science. Whether you’re here to learn, contribute, or innovate, this repository is your hub for inspiration and progress. Let’s shape the future together! 🌍✨
 
